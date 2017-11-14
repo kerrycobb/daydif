@@ -9,6 +9,9 @@ st.setup(
     author_email='cobbkerry@gmail.com',
     license='MIT',
     packages=st.find_packages(),
+    install_requires=[
+        'click',
+    ],
     entry_points={
         'console_scripts':[
             'daydif=daydif.cli:cli'
