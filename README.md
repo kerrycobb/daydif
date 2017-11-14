@@ -3,7 +3,7 @@ Tool for computing the number of days between two calendar dates.
 
 ### Installation
 ```bash
-pip install git+git://github.com/myuser/foo.git
+pip install git+git://github.com/kerrycobb/daydif.git
 ```
 
 ### Usage
