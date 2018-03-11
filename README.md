@@ -3,11 +3,11 @@ Tool for computing the number of days between two calendar dates.
 
 ### Installation
 ```bash
-pip install git+git://github.com/kerrycobb/daydif.git
+pip install git+https://github.com/kerrycobb/daydif
 ```
 
-### Usage
-##### Command Line
+# Usage
+### Command Line
 
 Number of days between input date and todays date
 ```bash
@@ -19,7 +19,7 @@ Number of days between two dates
 daydiff yyyy-mm-dd yyyy-mm-dd
 ```
 
-##### Python Module
+### Python Module
 ```python
 import daydif as dd
 
